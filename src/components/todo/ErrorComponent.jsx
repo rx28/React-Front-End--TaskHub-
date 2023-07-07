@@ -4,7 +4,7 @@ export default function ErrorComponent(){
         <div className="ErrorWelcome">
             <h1>Error</h1>
             <div>
-                404.
+                404. Page Not Found!
                 </div> 
         </div>
     )
